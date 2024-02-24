@@ -1,0 +1,9 @@
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\bin\Release\NoteApp.exe
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\bin\Release\NoteApp.pdb
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\bin\Release\NoteApp.xml
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\obj\x86\Release\NoteApp.Resources.resources
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\obj\x86\Release\NoteApp.NoteApp.resources
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\obj\x86\Release\NoteApp.vbproj.GenerateResource.Cache
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\obj\x86\Release\NoteApp.exe
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\obj\x86\Release\NoteApp.xml
+C:\Users\Punj\documents\visual studio 2010\Projects\NoteApp\NoteApp\obj\x86\Release\NoteApp.pdb
